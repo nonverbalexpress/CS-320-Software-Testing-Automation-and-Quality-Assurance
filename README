@@ -1,13 +1,1 @@
-# CS-320: Software Test, Automation, and QA  
-## Portfolio Reflection – Melissa Chessa  
 
-In this course, I built and tested Java programs to practice software testing, automation, and quality assurance. From Project One, I created a contact management service with full JUnit test coverage. From Project Two, I reflected on testing strategies and wrote a summary report. Together, these artifacts show my ability to create software that meets requirements, apply test-driven approaches, and think critically about quality practices.  
-
-### How can I ensure that my code, program, or software is functional and secure?  
-I ensure functionality by writing unit tests for all major features, not just the “happy path.” In Project One, I confirmed rules such as enforcing character limits and rejecting null values through automated JUnit tests. I also tested negative cases to make sure invalid inputs triggered exceptions. For security, I focus on validation and handling data safely so bad inputs don’t compromise the system. In the future, I plan to expand this by using automated tools for dependency checks and secure coding practices.  
-
-### How do I interpret user needs and incorporate them into a program?  
-I start with requirements and translate them into rules the program must enforce. For example, the contact service had strict requirements for ID length, phone number format, and field size. I turned each of these rules into test cases. This way, the program logic always stays tied directly to what the user needs. My background in customer service also helped me understand the importance of listening, clarifying, and making sure requirements are clear before building.  
-
-### How do I approach designing software?  
-I design in small, testable steps. I define the classes and methods first, then write tests to guide the development. I approach design by thinking about what could go wrong as well as what should work, which leads to cleaner and more reliable code. By focusing on requirements and testing side by side, I was able to create programs that worked consistently and met the project expectations.  
